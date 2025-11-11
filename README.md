@@ -1,4 +1,27 @@
-# Personal web
+# Max's Data & Engineering Projects
+
+Hello everyone! 👋
+
+My name is Max. I am an Data Engineer focused on designing and optimizing data solutions that empower teams to make strategic decisions. My expertise lies in developing scalable data models, automating processes, and ensuring data quality, with a strong background in SQL, data pipelines, and Python for automation and transformation.
+
+My career has been a journey from business operations to technical roles in data engineering, and I am passionate about continuous learning, especially around cloud infrastructure and data architecture.
+
+This repository is part of my effort to keep learning and trying new things, in this project I use TypeScript and other technologies, researching heavily
+with artificial intellegence (generative).
+
+## Project description
+
+This is a project developed with TypeScript. 
+
+## Contributions
+
+I appreciate any contributions and suggestions! Feel free to open issues, propose improvements, or submit pull requests. Together we can make this project even more impressive.
+
+Thank you for exploring my project!
+
+Happy coding! 💻✨
+
+## requirement
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
